@@ -16,7 +16,7 @@ Sistema de gestión hospitalaria desarrollado en **Java**, utilizando arquitectu
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/mwojtasikINSPT/gestion-hospital-sql.git
 ```
 
 Abrir el proyecto en NetBeans o en un IDE compatible con Maven.
