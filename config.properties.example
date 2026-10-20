@@ -1,0 +1,7 @@
+# Copiar este archivo y renombrarlo a config.properties.
+# Reemplazar los valores de usuario y contraseña con tus credenciales de MySQL.
+# Este archivo es un ejemplo y no debe contener credenciales reales.
+
+db.url=jdbc:mysql://localhost:3306/bbdd
+db.user=TU_USUARIO
+db.password=TU_CONTRASENA
